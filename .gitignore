@@ -1,2 +1,8 @@
 /build/
 /.vscode/
+/scripts/vs2013
+/scripts/Debug
+/scripts/sample-all/Debug
+/scripts/*.opensdf
+/scripts/*.sdf
+/scripts/*.suo
